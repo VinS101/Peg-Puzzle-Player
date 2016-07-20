@@ -1,0 +1,10 @@
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\bin\Debug\ShervinShahrdar_HW1.exe.config
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\bin\Debug\ShervinShahrdar_HW1.exe
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\bin\Debug\ShervinShahrdar_HW1.pdb
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\obj\Debug\ShervinShahrdar_HW1.csprojResolveAssemblyReference.cache
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\obj\Debug\ShervinShahrdar_HW1.PegPuzzleForm.resources
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\obj\Debug\ShervinShahrdar_HW1.Prompt.resources
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\obj\Debug\ShervinShahrdar_HW1.Properties.Resources.resources
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\obj\Debug\ShervinShahrdar_HW1.csproj.GenerateResource.Cache
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\obj\Debug\ShervinShahrdar_HW1.exe
+D:\OneDrive\Doc\school\Undergrad\2015-Fall\CAP 4630\HW1_PegPuzzle\Submittion\ShervinShahrdar_HW1\ShervinShahrdar_HW1\obj\Debug\ShervinShahrdar_HW1.pdb
